@@ -1,6 +1,6 @@
 # Galaxy Type Classification With Sub-categorization Using Deep Learning Framework #
 
-## Our team include:<br>Aditya Phatak<br>Aryan Kamat<br>Nitish Kumar Pathak
+## Our team include:<br>Aryan Kamat<br>Aditya Phatak<br>Nitish Kumar Pathak
 
  The project involved galaxy categorization utilizing machine learning and image 
 processing techniques, emphasizing Galaxy Zoo and 
